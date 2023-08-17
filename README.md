@@ -2,27 +2,27 @@
 
 ###
 
-<p align="left">اینجا جاییه که ما خلاقیت و دانشمون رو نشون میدیم</p>
+<p align="right">اینجا جاییه که ما خلاقیت و دانشمون رو نشون میدیم</p>
 
 ###
 
-<h2 align="left">درباره ما</h2>
+<h2 align="right">درباره ما</h2>
 
 ###
 
-<p align="left">✨ توسعه وبسایت ها و اپلکیشن های کاربردی<br>📚 ترکیب ایده خلاقیت و تکنولوژی<br>🎯 یادگیری و بازتاب دانش</p>
+<p align="right">✨ توسعه وبسایت ها و اپلکیشن های کاربردی<br>📚 ترکیب ایده خلاقیت و تکنولوژی<br>🎯 یادگیری و بازتاب دانش</p>
 
 ###
 
-<h2 align="left">ما به چه چیز هایی کار میکنیم</h2>
+<h2 align="right">ما به چه چیز هایی کار میکنیم</h2>
 
 ###
 
-<h3 align="left">زبان های برنامه نویسی مورد علاقمون</h3>
+<h3 align="right">زبان های برنامه نویسی مورد علاقمون</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -34,11 +34,11 @@
 
 ###
 
-<h3 align="left">ابزار ها و فریم ورک هایی که عمیقا بهش علاقه داریم</h3>
+<h3 align="right">ابزار ها و فریم ورک هایی که عمیقا بهش علاقه داریم</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
@@ -60,11 +60,11 @@
 
 ###
 
-<h3 align="left">داده های شمارو کجا نگه میداریم</h3>
+<h3 align="right">داده های شمارو کجا نگه میداریم</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -78,11 +78,11 @@
 
 ###
 
-<h3 align="left">سیستم عامل های مورد علاقه ما</h3>
+<h3 align="right">سیستم عامل های مورد علاقه ما</h3>
 
 ###
 
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
@@ -90,20 +90,24 @@
 
 ###
 
-<h3 align="left">سایر مهارت های ما</h3>
+<h3 align="right">سایر مهارت های ما</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+<div align="right">
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="42" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="42" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="42" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="42" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nginx/009639" height="42" alt="nginx logo"  />
 </div>
 
 ###
